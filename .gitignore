@@ -15,3 +15,5 @@ pom.xml
 .idea/
 *.iml
 app/
+.clj-kondo/.cache/
+.lsp/
